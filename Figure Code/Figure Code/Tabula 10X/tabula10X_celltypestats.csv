@@ -1,0 +1,56 @@
+"","Identity","Count","Min","Max","Median","IQR"
+"1","basal cell of epidermis",4329,5659,43401,12460,5923
+"2","keratinocyte",2798,5582,59755,20601.5,15164.25
+"3","Langerhans cell",37,6043,23088,9350,3859
+"4","hepatocyte",975,1937,56488,4746,4804
+"5","endothelial cell of hepatic sinusoid",22,2119,6975,3179,1192
+"6","bladder cell",1188,2272,26067,7971,3858.25
+"7","bladder urothelial cell",1128,2864,59893,18989.5,10289.25
+"8","leukocyte",198,2171,29283,5034.5,4697.75
+"9","endothelial cell",1961,1604,33809,3427,2435
+"10","kidney capillary endothelial cell",379,1661,52379,3833,2166.5
+"11","mesangial cell",50,1957,13321,6114.5,2875
+"12","kidney cell",42,2619,23438,9121,8373
+"13","kidney collecting duct epithelial cell",387,1693,52284,5638,5027
+"14","kidney proximal straight tubule epithelial cell",1056,1697,25271,5847.5,6218
+"15","kidney loop of Henle ascending limb epithelial cell",416,1676,10955,3911,2658.75
+"16","macrophage",1101,1759,32361,6347,3768
+"17","B cell",5661,1845,58328,3691,2224
+"18","natural killer cell",846,1868,16457,3074,1324
+"19","T cell",3754,1873,41167,4457,1618.75
+"20","dendritic cell",41,3833,13016,6768,1685
+"21","immature T cell",1310,2520,44095,4960,5623
+"22","DN1 thymic pro-T cell",44,3474,13038,5148,1668.5
+"23","luminal epithelial cell of mammary gland",427,2911,58552,15170,15041.5
+"24","stromal cell",2855,1546,50244,4258,2918
+"25","basal cell",378,3410,36531,9943,4831.5
+"26","",657,1743,35313,6164,4487
+"27","mesenchymal stem cell",1072,2107,16534,6783.5,3164.5
+"28","skeletal muscle satellite cell",328,2579,15350,5488,2008
+"29","monocyte",525,3948,19633,7475,2391
+"30","granulocytopoietic cell",368,4137,47216,16475.5,8870
+"31","promonocyte",223,3909,34715,15575,7305
+"32","granulocyte",587,3835,20600,6174,2518
+"33","hematopoietic precursor cell",358,4131,56491,25480.5,21044.25
+"34","proerythroblast",170,4183,58528,9297.5,9247.75
+"35","late pro-B cell",264,4059,53608,10584,10417.75
+"36","basophil",31,3911,28432,5709,7531
+"37","early pro-B cell",65,3849,11622,4968,1339
+"38","immature B cell",113,3841,15295,4704,1130
+"39","Fraction A pre-pro B cell",58,5177,24347,11722,4709.75
+"40","erythroblast",22,6148,17648,9169.5,2811.5
+"41","fibroblast",214,2076,18023,6831.5,3170.5
+"42","cardiac muscle cell",51,1880,12667,5733,4243
+"43","endocardial cell",61,2152,21971,8619,4910
+"44","myeloid cell",83,2849,25307,9328,5401
+"45","alveolar macrophage",336,2409,22031,6596.5,2962.75
+"46","lung endothelial cell",395,1631,15652,3686,2357
+"47","non-classical monocyte",205,2287,17977,4783,3373
+"48","classical monocyte",154,2063,20490,8937.5,2895
+"49","ciliated columnar cell of tracheobronchial tree",41,3326,30560,9168,4683
+"50","type II pneumocyte",78,3223,25534,9630,5000.25
+"51","mast cell",17,2458,4292,3281,808
+"52","mesenchymal cell",6225,1803,23550,4043,2426
+"53","epithelial cell",431,1834,26362,6067,4408
+"54","blood cell",817,1883,21195,4797,2618
+"55","neuroendocrine cell",234,1689,13339,3263.5,1450.25
